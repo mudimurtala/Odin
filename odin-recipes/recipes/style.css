@@ -1,0 +1,12 @@
+/* style.css */
+body {
+    background-attachment: fixed;
+    background-color: darkgreen;
+    color: beige;
+    text-align: center;
+    font-size: 22px;
+    
+}
+ul {
+    color: white;
+}
